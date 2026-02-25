@@ -20,6 +20,8 @@ Recent News
 
 **[Feb, 2025]** Our paper about robustness analysis on LDP protocols for numerical attributes has been accepted by NDSS 2025.
 
+**[Aug, 2024]** My project proposal was granted by NSFC.
+
 
 Recent Services
 -----------
