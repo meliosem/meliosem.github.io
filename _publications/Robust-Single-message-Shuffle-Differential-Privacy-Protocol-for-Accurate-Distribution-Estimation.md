@@ -1,11 +1,11 @@
 ---
 title: "Robust Single-message Shuffle Differential Privacy Protocol for Accurate Distribution Estimation"
 collection: publications
-category: conference
-permalink: /publication/2009-10-01-paper-title-number-1
+category: conferences
+permalink: /publication/Robust-Single-message-Shuffle-Differential-Privacy-Protocol-for-Accurate-Distribution-Estimation
 # excerpt: 'This paper is about a robust and accurate single-message shuffler-based DP protocol for distribution estimation'
 date: 2026-02-24
-venue: 'Journal 1'
+venue: 'ICDE'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://faculty.xidian.edu.cn/LIXIAOGUANG/en/lwcg/455283/content/303105.htm#lwcg'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'

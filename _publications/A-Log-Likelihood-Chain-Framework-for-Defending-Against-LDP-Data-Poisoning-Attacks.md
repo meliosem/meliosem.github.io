@@ -1,13 +1,13 @@
 ---
-title: "Robust Single-message Shuffle Differential Privacy Protocol for Accurate Distribution Estimation"
+title: "A Log-Likelihood Chain Framework for Defending Against LDP Data Poisoning Attacks"
 collection: publications
 category: conferences
-permalink: /publication/2026-02-24-paper-1
+permalink: /publication/A-Log-Likelihood-Chain-Framework-for-Defending-Against-LDP-Data-Poisoning-Attacks
 # excerpt: 'This paper is about a robust and accurate single-message shuffler-based DP protocol for distribution estimation'
-date: 2026-02-24
-venue: 'ICDE 2026'
+date: 2025-12-31
+venue: 'IEEE Transactions on Knowledge and Data Engineering'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://faculty.xidian.edu.cn/LIXIAOGUANG/en/lwcg/455283/content/303105.htm#lwcg'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11271534'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
