@@ -1,7 +1,7 @@
 ---
 title: "A Log-Likelihood Chain Framework for Defending Against LDP Data Poisoning Attacks"
 collection: publications
-category: conferences
+category: manuscript
 permalink: /publication/A-Log-Likelihood-Chain-Framework-for-Defending-Against-LDP-Data-Poisoning-Attacks
 # excerpt: 'This paper is about a robust and accurate single-message shuffler-based DP protocol for distribution estimation'
 date: 2025-12-31
