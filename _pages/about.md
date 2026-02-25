@@ -18,6 +18,8 @@ Recent News
 
 **[Dec, 2025]** Our paper about detection framework against data poisoning attack to LDP protocols has been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
+**[Feb, 2025]** Our paper about robustness analysis on LDP protocols for numerical attributes has been accepted by NDSS 2025.
+
 
 Recent Services
 -----------
