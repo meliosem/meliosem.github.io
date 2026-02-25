@@ -2,15 +2,15 @@
 title: "Fine-grained poisoning attack to local differential privacy protocols for mean and variance estimation"
 collection: publications
 category: conferences
-permalink: /publication/On-the-Robustness-of-LDP-Protocols-for-Numerical-Attributes-under-Data-Poisoning-Attacks
-excerpt: 'Xiaoguang Li, Zitao Li, Ninghui Li, Wenhai Sun'
-date: 2025-02-28
-venue: 'Network and Distributed System Security (NDSS) Symposium'
+permalink: /publication/Fine-grained-poisoning-attack-to-local-differential-privacy-protocols-for-mean-and-variance-estimation
+excerpt: 'Xiaoguang Li, Ninghui Li, Wenhai Sun, Neil Zhenqiang Gong, Hui Li'
+date: 2023-08-09
+venue: 'USENIX Security Symposium'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.ndss-symposium.org/wp-content/uploads/2025-1521-paper.pdf'
+paperurl: 'https://www.usenix.org/system/files/usenixsecurity23-li-xiaoguang.pdf'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-Recent studies reveal that local differential privacy (LDP) protocols are vulnerable to data poisoning attacks where an attacker can manipulate the final estimate on the server by leveraging the characteristics of LDP and sending carefully crafted data from a small fraction of controlled local clients. This vulnerability raises concerns regarding the robustness and reliability of LDP in hostile environments.
+Although local differential privacy (LDP) protects individual users' data from inference by an untrusted data curator, recent studies show that an attacker can launch a data poisoning attack from the user side to inject carefully-crafted bogus data into the LDP protocols in order to maximally skew the final estimate by the data curator.
 
-In this paper, we conduct a systematic investigation of the robustness of state-of-the-art LDP protocols for numerical attributes, i.e., categorical frequency oracles (CFOs) with binning and consistency, and distribution reconstruction. We evaluate protocol robustness through an attack-driven approach and propose new metrics for cross-protocol attack gain measurement. The results indicate that Square Wave and CFO-based protocols in the textit{Server} setting are more robust against the attack compared to the CFO-based protocols in the textit{User} setting. Our evaluation also unfolds new relationships between LDP security and its inherent design choices. We found that the hash domain size in local-hashing-based LDP has a profound impact on protocol robustness beyond the well-known effect on utility. Further, we propose a textit{zero-shot attack detection} by leveraging the rich reconstructed distribution information. The experiment show that our detection significantly improves the existing methods and effectively identifies data manipulation in challenging scenarios.
+In this work, we further advance this knowledge by proposing a new fine-grained attack, which allows the attacker to fine-tune and simultaneously manipulate mean and variance estimations that are popular analytical tasks for many real-world applications. To accomplish this goal, the attack leverages the characteristics of LDP to inject fake data into the output domain of the local LDP instance. We call our attack the output poisoning attack (OPA). We observe a security-privacy consistency where a small privacy loss enhances the security of LDP, which contradicts the known security-privacy trade-off from prior work. We further study the consistency and reveal a more holistic view of the threat landscape of data poisoning attacks on LDP. We comprehensively evaluate our attack against a baseline attack that intuitively provides false input to LDP. The experimental results show that OPA outperforms the baseline on three real-world datasets. We also propose a novel defense method that can recover the result accuracy from polluted data collection and offer insight into the secure LDP design.
