@@ -9,9 +9,7 @@ redirect_from:
 
 I hold my Ph.D. degree in cyber security. I study security and privacy issues in broad systems and applications. I am particularly interested in differential privacy (DP), including local differential privacy (LDP) and shuffler-based DP, and currently investigate DP protocol design and how DP can be abused to cause unexpected harm to underlying applications. In the future, I plan to dive into more confidential computing techniques such as trusted execution environment (TEE).
 
-**
-I am looking for master students who are interested in privacy-enhancing techniques, and I expect that you have a solid foundation in math, programming and English. If you have interests, please contact me.
-**
+**I am looking for master students who are interested in privacy-enhancing techniques, and I expect that you have a solid foundation in math, programming and English. If you have interests, please contact me.**
 
 
 Recent News
