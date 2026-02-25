@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I hold two Ph.D. degrees in computer science and cryptography. I study security and privacy issues in broad systems and applications, such as AI, cloud, blockchain, and cyber-physical systems. I am particularly interested in AI for privacy and currently investigate how privacy-enhancing technology, such as differential privacy, can be abused to cause unexpected harm to the underlying applications, systems, and participants, and how to mitigate these emerging threats without sacrificing privacy and utility by leveraging AI/ML and provable algorithm design. I am the recipient of the NSF CAREER Award 2023 and Univeristy Faculty Scholar.
+I hold my Ph.D. degrees in cyber security. I study security and privacy issues in broad systems and applications. I am particularly interested in differential privacy (DP), including local differential privacy (LDP) and shuffler-based DP, and currently investigate DP protocol design and how DP can be abused to cause unexpected harm to underlying applications. In the future, I plan to dive into more confidential computing techniques such as trusted execution environment (TEE).
 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
