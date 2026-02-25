@@ -298,7 +298,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: single
+      layout: project
       author_profile: true
       share: true
 
