@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D in Cyberspace Security, Xidian University, 2017-2022
 * Visiting Scholar in Computer and Information Technology, Purdue University, 2019-2021
 * B.S. in Information Security, Xidian University, 2013-2017
 
 Work experience
-======
+------
 * 2023-Now: Lecturer
   * Affiliation: Xidian University
   * Department: School of Cyber Engineering
@@ -27,13 +27,13 @@ Work experience
 
 
 Publications
-======
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Projects
-======
+------
   <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html  %}
   {% endfor %}</ul>
@@ -45,11 +45,11 @@ Projects
   {% endfor %}</ul> -->
   
 Teaching
-======
+------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
+
