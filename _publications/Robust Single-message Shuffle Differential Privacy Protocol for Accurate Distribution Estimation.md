@@ -3,9 +3,9 @@ title: "Robust Single-message Shuffle Differential Privacy Protocol for Accurate
 collection: publications
 category: conferences
 permalink: /publication/Robust-Single-message-Shuffle-Differential-Privacy-Protocol-for-Accurate-Distribution-Estimation
-excerpt: 'Xiaoguang Li, Hanyi Wang, Yaowei Huang, Jungang Yang, Qingqing Ye, Haonan Yan, Ke Pan, Zhe Sun, Hui Li'
+excerpt: '**Xiaoguang Li**, Hanyi Wang, Yaowei Huang, Jungang Yang, Qingqing Ye, Haonan Yan, Ke Pan, Zhe Sun, Hui Li'
 date: 2026-02-24
-venue: 'ICDE'
+venue: 'IEEE International Conference on Data Engineering (ICDE)'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://faculty.xidian.edu.cn/LIXIAOGUANG/en/lwcg/455283/content/303105.htm#lwcg'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'

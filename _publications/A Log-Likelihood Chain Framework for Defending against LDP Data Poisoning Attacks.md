@@ -3,7 +3,7 @@ title: "A Log-Likelihood Chain Framework for Defending Against LDP Data Poisonin
 collection: publications
 category: manuscripts
 permalink: /publication/A-Log-Likelihood-Chain-Framework-for-Defending-Against-LDP-Data-Poisoning-Attacks
-excerpt: 'Xiaoguang Li, Yuxin Wen, Yuchen Wang, Haonan Yan, Yahong Chen, Zhe Sun, Hui Li'
+excerpt: '**Xiaoguang Li**, Yuxin Wen, Yuchen Wang, Haonan Yan, Yahong Chen, Zhe Sun, Hui Li'
 date: 2025-12-31
 venue: 'IEEE Transactions on Knowledge and Data Engineering'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'

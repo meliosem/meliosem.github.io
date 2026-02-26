@@ -3,7 +3,7 @@ title: "On the Robustness of LDP Protocols for Numerical Attributes under Data P
 collection: publications
 category: conferences
 permalink: /publication/On-the-Robustness-of-LDP-Protocols-for-Numerical-Attributes-under-Data-Poisoning-Attacks
-excerpt: 'Xiaoguang Li, Zitao Li, Ninghui Li, Wenhai Sun'
+excerpt: '**Xiaoguang Li**, Zitao Li, Ninghui Li, Wenhai Sun'
 date: 2025-02-28
 venue: 'Network and Distributed System Security (NDSS) Symposium'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'

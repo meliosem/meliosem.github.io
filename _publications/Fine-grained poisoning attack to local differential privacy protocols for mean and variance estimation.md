@@ -3,7 +3,7 @@ title: "Fine-grained poisoning attack to local differential privacy protocols fo
 collection: publications
 category: conferences
 permalink: /publication/Fine-grained-poisoning-attack-to-local-differential-privacy-protocols-for-mean-and-variance-estimation
-excerpt: 'Xiaoguang Li, Ninghui Li, Wenhai Sun, Neil Zhenqiang Gong, Hui Li'
+excerpt: '**Xiaoguang Li**, Ninghui Li, Wenhai Sun, Neil Zhenqiang Gong, Hui Li'
 date: 2023-08-09
 venue: 'USENIX Security Symposium'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
