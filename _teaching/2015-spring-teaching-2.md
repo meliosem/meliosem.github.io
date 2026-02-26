@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "高级语言程序设计"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "本科生课程"
+permalink: /teaching/java
+# venue: "秋季学期"
+excerpt: "秋季学期"
+date: 2025-09-01
+# paperurl: 'https://github.com/meliosem/meliosem.github.io/blob/main/files/postgraduate_course/2025fall/privacy_preserving_technology/'
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+课程包含介绍Java的语法和基本应用
