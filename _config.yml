@@ -263,7 +263,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
       comments: true
