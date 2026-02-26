@@ -3,7 +3,7 @@ title: "A Proactive Defense Against Model Poisoning Attacks in Federated Learnin
 collection: publications
 category: manuscripts
 permalink: /publication/A-proactive-defense-against-model-poisoning-attacks-in-federated-learning
-excerpt: 'Haonan Yan, Chengbo Zheng, Qian Chen, **Xiaoguang Li**, Bin Wang, Hui Li, Xiaodong Lin. (Corresponding authors: Xiaoguang Li, Hui Li)'
+excerpt: 'Haonan Yan, Chengbo Zheng, Qian Chen, **Xiaoguang Li**, Bin Wang, Hui Li, Xiaodong Lin. (Corresponding authors: **Xiaoguang Li**, Hui Li)'
 date: 2025-01-23
 venue: 'IEEE Transactions on Dependable and Secure Computing'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
