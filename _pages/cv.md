@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cyberspace Security, Xidian University, 2017-2022
+* Visiting Scholar in Computing and Information Technology, Purdue University, 2019-2021
+* B.S. in Information Security, Xidian University, 2013-2017
 
 Work experience
 ======
@@ -27,10 +27,9 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* 2022-2023: Algorithm Engineer
+  * Huawei Technologies Co., Ltd.
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -46,12 +45,18 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
+======
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html  %}
+  {% endfor %}</ul>  
+
+Ta<!-- lks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
