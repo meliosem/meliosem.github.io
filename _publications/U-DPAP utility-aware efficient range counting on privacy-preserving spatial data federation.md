@@ -3,7 +3,7 @@ title: "U-DPAP: utility-aware efficient range counting on privacy-preserving spa
 collection: publications
 category: conferences
 permalink: /publication/U-DPAP-utility-aware-efficient-range-counting-on-privacy-preserving-spatial-data-federation
-excerpt: 'Yahong Chen, Xiaoyi Pang, Xiaoguang Li, Hanyi Wang, Ben Niu, Shengnan Hu'
+excerpt: 'Yahong Chen, Xiaoyi Pang, **Xiaoguang Li**, Hanyi Wang, Ben Niu, Shengnan Hu'
 date: 2025-02-11
 venue: 'Proceedings of the ACM on Management of Data (SIGMOD)'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
