@@ -2,7 +2,7 @@
 title: "隐私保护技术"
 collection: teaching
 type: "研究生课程"
-permalink: /teaching/privacy-preserving-technique
+permalink: /teaching/privacy_preserving_technology
 # venue: "University 1, Department"
 date: 2025-09-01
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11271534'
