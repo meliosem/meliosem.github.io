@@ -22,7 +22,7 @@ Work experience
   * Department: School of Cyber Engineering
 
 * 2022-2023: Algorithm Engineer
-  * Huawei Technologies Co., Ltd.
+  * Affiliation: Huawei Technologies Co., Ltd.
   * Duties included: Synthetic data generation, LDP protocol design
 
 
