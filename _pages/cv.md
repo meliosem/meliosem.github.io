@@ -12,33 +12,19 @@ redirect_from:
 Education
 ======
 * Ph.D in Cyberspace Security, Xidian University, 2017-2022
-* Visiting Scholar in Computing and Information Technology, Purdue University, 2019-2021
+* Visiting Scholar in Computer and Information Technology, Purdue University, 2019-2021
 * B.S. in Information Security, Xidian University, 2013-2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-Now: Lecturer
+  * Affiliation: Xidian University
+  * Department: School of Cyber Engineering
 
 * 2022-2023: Algorithm Engineer
   * Huawei Technologies Co., Ltd.
-  * Duties included: Tagging issues
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Duties included: Synthetic data generation, LDP protocol design
+
 
 Publications
 ======
