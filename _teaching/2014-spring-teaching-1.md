@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "隐私保护技术"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "研究生课程"
+permalink: /teaching/privacy-preserving-technique
+# venue: "University 1, Department"
+date: 2025-09-01
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11271534'
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+介绍差分隐私(DP)和本地化差分隐私(LDP)的基础概念和基础协议设计。
 
 Heading 1
 ======
