@@ -7,7 +7,7 @@ excerpt: '**Xiaoguang Li**, Hanyi Wang, Yaowei Huang, Jungang Yang, Qingqing Ye,
 date: 2026-02-24
 venue: 'IEEE International Conference on Data Engineering (ICDE)'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://faculty.xidian.edu.cn/LIXIAOGUANG/en/lwcg/455283/content/303105.htm#lwcg'
+paperurl: 'https://arxiv.org/abs/2603.05073'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
